@@ -23,7 +23,6 @@ public class MainActivity extends AppCompatActivity {
     private OutputStream os = null;
     private boolean isShow; //悬浮窗口是否显示
     private boolean isOpen;
-    private boolean isFirstWindow;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
