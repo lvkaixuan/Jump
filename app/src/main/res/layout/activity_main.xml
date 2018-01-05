@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_gravity="center"
+        android:padding="10dp"
+        android:textColor="#ff0000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="本程序需要ROOT,测试版本目前只适配1920*1080"/>
+    <TextView
+        android:textColor="#000000"
+        android:padding="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="使用方法: 先获取root,打开悬浮窗,然后打开跳一跳开始游戏,手指从棋子滑到想要跳到的地方即可"/>
+
+    <ImageView
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/test"/>
+
+    <Button
+        android:id="@+id/showFloat"
+        android:layout_margin="30dp"
+        android:text="打开辅助"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
