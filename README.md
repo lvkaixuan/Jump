@@ -44,7 +44,7 @@ public boolean onTouch(View v, MotionEvent event) {
  - 项目Demo: http://fir.im/wechatjump
  
  - 也可以扫码下载:
-![这里写图片描述](http://img.blog.csdn.net/20180105125508838?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbHZrYWl4dWFu/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![这里写图片描述](https://user-gold-cdn.xitu.io/2018/1/5/160c50c949629152?imageView2/0/w/1280/h/960/ignore-error/1?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbHZrYWl4dWFu/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 ## 感谢 ##
 
