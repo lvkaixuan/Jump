@@ -1,7 +1,7 @@
 Android利用悬浮窗轻松实现微信跳一跳辅助
 -----------------------
 
-[Alt text](https://github.com/lvkaixuan/Jump/blob/master/video.gif)
+![Alt text](https://github.com/lvkaixuan/Jump/blob/master/video.gif)
 ## 实现思路 ##
 
  - 透明悬浮窗
